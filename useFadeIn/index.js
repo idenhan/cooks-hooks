@@ -1,2 +1,2 @@
   
-export { useFadeIn as default } from "./useFadeIn";
+export { useFadeIn as default } from './useFadeIn';

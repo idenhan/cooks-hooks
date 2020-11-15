@@ -20,7 +20,7 @@ import useFadeIn from "@react-hooks-10/use-fade-in";
 
 function App() {
   const fadeIn = useFadeIn(5, 10);
-  return <h1 {...fadeIn}>This will fade in.</h1>;
+  return <h1 {...fadeIn}>This will fade in</h1>;
 }
 ```
 
