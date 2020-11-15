@@ -85,6 +85,8 @@ function App() {
 | ------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | Functions    | Object | A object containing functions `enablePrevent` and `disablePrevent`, use this functions to enable/disable the leaving prevention |
 
+## useTabs
+
 ## useNotification
 
 React Hook to show users a notfication when the notification permission is allowed.
