@@ -1,0 +1,26 @@
+{
+  "name": "cooks-hooks",
+  "version": "1.0.0",
+  "description": "Collection of React hooks to save your time",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idenhan/cooks-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "cooks-hooks",
+    "hooks"
+  ],
+  "author": "Iden Han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idenhan/cooks-hooks/issues"
+  },
+  "homepage": "https://github.com/idenhan/cooks-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
